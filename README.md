@@ -1,2 +1,2 @@
 # jetbrains-academy-project
-learn compute programming on jetbrains academy:)
+learn computer programming on jetbrains academy:)
